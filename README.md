@@ -26,10 +26,10 @@ Each file starts with a block of metadata to connect related content:
 <h4>Other knowledge hubs:</h4>
 
 [💻 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
-[🌐 Enterprise Sysytems](https://github.com/NikiDigitals/systems) 
-[📊 Finance and Accounting](https://github.com/NikiDigitals/Finance-and-accounting)
+[🌐 Enterprise Systems](https://github.com/NikiDigitals/systems)  
+[📊 Finance and Accounting](https://github.com/NikiDigitals/Finance-and-accounting)  
 [💼 Business and Management](https://github.com/NikiDigitals/Management-Business)  
-[📑 Others](https://github.com/NikiDigitals/others)  
+[📑 Others](https://github.com/NikiDigitals/others)    
 <br>
 📌 Note: This repository is "in progress" and will be updated as I learn. 
 The goal is transparency of process, not perfection.
